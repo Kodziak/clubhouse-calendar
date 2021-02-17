@@ -1,0 +1,174 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:https://dev-radio.pl/
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MzEa18Zw
+LOCATION:https://www.joinclubhouse.com/event/MzEa18Zw
+SUMMARY:🇵🇱 Dev Radio PL: Agile dla programistów czy managerów? :)
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MzEa18Zw\nKto: Grzegorz Jarosz,Daniel Dec\nLuźna rozmowa: nasze (dobre i złe) doświadczenia z “Agile”; po co wdrażać np. Scruma i komu ma on służyć; patologie, sukcesy, alternatywy.
+CLASS:PUBLIC
+DTSTART:20210223T190000Z
+DTEND:20210223T200000Z
+DTSTAMP:20210223T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/Md8eQVWo
+LOCATION:https://www.joinclubhouse.com/event/Md8eQVWo
+SUMMARY:🇵🇱Dev Radio PL: Nauka React w 2021
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/Md8eQVWo\nKto: Michał Jawulski,Aleksander Patschek,Artur Chmaro,Andrzej Krzywda\nReact jest coraz bardziej popularny. Jak wyglada nauka reacta w 2021? Jakie biblioteki warto znać, a które można odpuścić? Czy muszę znać Reduxa? Co dodać do IDE? Gdzie szukać materiałów do nauki?
+CLASS:PUBLIC
+DTSTART:20210224T193000Z
+DTEND:20210224T203000Z
+DTSTAMP:20210224T193000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/myGeL3ax
+LOCATION:https://www.joinclubhouse.com/event/myGeL3ax
+SUMMARY:🇵🇱 Dev Radio PL - Blockchain 101
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/myGeL3ax\nKto: Adam Smolarek,Andrzej Krzywda\nWszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb
+CLASS:PUBLIC
+DTSTART:20210219T150000Z
+DTEND:20210219T160000Z
+DTSTAMP:20210219T150000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/M14ENX2v
+LOCATION:https://www.joinclubhouse.com/event/M14ENX2v
+SUMMARY:🇵🇱 Dev Radio PL: Programisto pokaż swój side-project!
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/M14ENX2v\nKto: Szymon Paluch,Andrzej Krzywda\nWielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. 
+
+Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!
+CLASS:PUBLIC
+DTSTART:20210218T150000Z
+DTEND:20210218T160000Z
+DTSTAMP:20210218T150000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MR33pNW6
+LOCATION:https://www.joinclubhouse.com/event/MR33pNW6
+SUMMARY:🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MR33pNW6\nKto: Michał Łusiak,Michał Śliwoń,Andrzej Krzywda\nPorozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora.
+CLASS:PUBLIC
+DTSTART:20210217T190000Z
+DTEND:20210217T200000Z
+DTSTAMP:20210217T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MzjVEkQ3
+LOCATION:https://www.joinclubhouse.com/event/MzjVEkQ3
+SUMMARY:🇵🇱Dev Radio PL: Mentoring w IT- Czy warto? Kim jest mentor?
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MzjVEkQ3\nKto: Beata Lipska,Natalia Cholewa,Arkadiusz Wasilonek,Maciek Stęga\nCzy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙
+CLASS:PUBLIC
+DTSTART:20210222T190000Z
+DTEND:20210222T200000Z
+DTSTAMP:20210222T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/xpeELErv
+LOCATION:https://www.joinclubhouse.com/event/xpeELErv
+SUMMARY:🇵🇱Dev Radio PL: moduły w projekcie == konteksty biznesowe 
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/xpeELErv\nKto: Andrzej Krzywda\npogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić
+CLASS:PUBLIC
+DTSTART:20210208T150000Z
+DTEND:20210208T160000Z
+DTSTAMP:20210208T150000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MOBnD4Zy
+LOCATION:https://www.joinclubhouse.com/event/MOBnD4Zy
+SUMMARY:🇵🇱 Dev Radio PL: Przyszłość frontendu-PWA
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MOBnD4Zy\nKto: Aleksander Patschek,Artur Chmaro\nFrontend zawitał na Dev Radio PL. Porozmawiamy sobie o przyszłości frontendu w kontekście PWA (progressive web apps)
+CLASS:PUBLIC
+DTSTART:20210216T180000Z
+DTEND:20210216T190000Z
+DTSTAMP:20210216T180000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/mapl9QVM
+LOCATION:https://www.joinclubhouse.com/event/mapl9QVM
+SUMMARY:🇵🇱 Dev Radio PL: Techniczna część rozmów kwalifikacyjnych
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/mapl9QVM\nKto: Beata Lipska,Andrzej Krzywda,Patryk Kubiela,Aleksander Patschek\nKontynuujemy temat sprzed tygodnia, ale teraz będzie część tylko technicznych zadań podczas rozmów kwalifikacyjnych, więc dużo 💻 i fajnych ludzi. Zapraszam serdecznie! 🤓 Słyszymy się 🎙
+CLASS:PUBLIC
+DTSTART:20210215T190000Z
+DTEND:20210215T200000Z
+DTSTAMP:20210215T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MzAajrwB
+LOCATION:https://www.joinclubhouse.com/event/MzAajrwB
+SUMMARY:🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MzAajrwB\nKto: Daniel Dec\nWiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)
+CLASS:PUBLIC
+DTSTART:20210225T190000Z
+DTEND:20210225T200000Z
+DTSTAMP:20210225T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MdAV8wJl
+LOCATION:https://www.joinclubhouse.com/event/MdAV8wJl
+SUMMARY:🇵🇱Dev Radio PL - dzisiaj o testach
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MdAV8wJl\nKto: Andrzej Krzywda,Ola Kunysz,Daniel Dec\nO testach brzmi trochę za szeroko, może zawęzimy tylko do tematu coverage, zobaczymy 😎
+CLASS:PUBLIC
+DTSTART:20210205T150000Z
+DTEND:20210205T160000Z
+DTSTAMP:20210205T150000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/MwkDw8DB
+LOCATION:https://www.joinclubhouse.com/event/MwkDw8DB
+SUMMARY:🇵🇱Dev Radio PL - Rekrutacja w branży IT
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/MwkDw8DB\nKto: Beata Lipska\nBędziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻
+CLASS:PUBLIC
+DTSTART:20210208T190000Z
+DTEND:20210208T200000Z
+DTSTAMP:20210208T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://joinclubhouse.com/event/M6zw0EbE
+LOCATION:https://joinclubhouse.com/event/M6zw0EbE
+SUMMARY:🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie
+DESCRIPTION:Link: https://joinclubhouse.com/event/M6zw0EbE\nKto: Łukasz Kałużny,Tomek Onyszko,Oskar Dudycz,Wojtek Ptak\nLuźna rozmowa na temat wybierania nudnych, sprawdzonych technologii, a rozwoju, kreatywność czy cv driven development.
+
+PS. Chcesz zadać pytanie, skomentować? Podnieś po prostu rękę w trakcie rozmowy
+CLASS:PUBLIC
+DTSTART:20210210T153000Z
+DTEND:20210210T163000Z
+DTSTAMP:20210210T153000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/dxndgO3m
+LOCATION:https://www.joinclubhouse.com/event/dxndgO3m
+SUMMARY:🇵🇱 Dev Radio PL - czy Java umiera? Java a inne języki 
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/dxndgO3m\nKto: Dariusz Mydlarz\nCzy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)
+CLASS:PUBLIC
+DTSTART:20210217T130000Z
+DTEND:20210217T140000Z
+DTSTAMP:20210217T130000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+BEGIN:VEVENT
+UID:https://www.joinclubhouse.com/event/Pv6nB9E7
+LOCATION:https://www.joinclubhouse.com/event/Pv6nB9E7
+SUMMARY:🇵🇱 Dev Radio PL: Wydajność aplikacji
+DESCRIPTION:Link: https://www.joinclubhouse.com/event/Pv6nB9E7\nKto: Daniel Dec\nBędzie to wstęp do wydajności systemów. Dlaczego i kiedy jest ważna. Gdzie jest wydajność? Jak ją mierzyć? Przejdziemy przez warstwy, powiem o podejściu i narzędziach.
+CLASS:PUBLIC
+DTSTART:20210210T190000Z
+DTEND:20210210T200000Z
+DTSTAMP:20210210T190000Z
+LAST-MODIFIED:20210217T211806Z
+END:VEVENT
+END:VCALENDAR

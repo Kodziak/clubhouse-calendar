@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse</title>
+        <description>Kalendarz spotkań 🇵🇱Dev Radio PL i 🇵🇱 IT Tech Talk na 👋Clubhouse</description>
+        <link>https://dev-radio.pl/</link>
+        <atom:link href="https://dev-radio.pl/feed.xml" rel="self" type="application/rss+xml" />
+        
+        
+            <item>
+                <title>🇵🇱Dev Radio PL: Straty w projektach IT (Mudas aka wastes)</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MzAajrwB<br/>
+                    Kiedy: 2021-02-25 20:00:00<br />
+                    Prowadzą: Daniel Dec<br/>
+                    Wiele rzeczy w naszych projektach da się często robić „lepiej”. Pierwszy krok do zmiany to świadomość „strat”. Przyjrzyjmy się więc stratom naszych technicznych projektów IT w ujęciu Lean (mudas)
+                </description>
+                <pubDate>Thu, 25 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MzAajrwB</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MzAajrwB</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱Dev Radio PL: Nauka React w 2021</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/Md8eQVWo<br/>
+                    Kiedy: 2021-02-24 20:30:00<br />
+                    Prowadzą: Michał Jawulski, Aleksander Patschek, Artur Chmaro, Andrzej Krzywda<br/>
+                    React jest coraz bardziej popularny. Jak wyglada nauka reacta w 2021? Jakie biblioteki warto znać, a które można odpuścić? Czy muszę znać Reduxa? Co dodać do IDE? Gdzie szukać materiałów do nauki?
+                </description>
+                <pubDate>Wed, 24 Feb 2021 20:30:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/Md8eQVWo</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/Md8eQVWo</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Agile dla programistów czy managerów? :)</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MzEa18Zw<br/>
+                    Kiedy: 2021-02-23 20:00:00<br />
+                    Prowadzą: Grzegorz Jarosz, Daniel Dec<br/>
+                    Luźna rozmowa: nasze (dobre i złe) doświadczenia z “Agile”; po co wdrażać np. Scruma i komu ma on służyć; patologie, sukcesy, alternatywy.
+                </description>
+                <pubDate>Tue, 23 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MzEa18Zw</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MzEa18Zw</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱Dev Radio PL: Mentoring w IT- Czy warto? Kim jest mentor?</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MzjVEkQ3<br/>
+                    Kiedy: 2021-02-22 20:00:00<br />
+                    Prowadzą: Beata Lipska, Natalia Cholewa, Arkadiusz Wasilonek, Maciek Stęga<br/>
+                    Czy potrzebujesz mentora? Czym jest Mentoring? Jakie są cechy dobrego mentora? Jaka powinna być osoba korzystająca z mentoringu? Jaką wartość wnosi mentor? Kiedy warto? Kiedy nie warto? Słyszymy się 🎙
+                </description>
+                <pubDate>Mon, 22 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MzjVEkQ3</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MzjVEkQ3</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL - Blockchain 101</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/myGeL3ax<br/>
+                    Kiedy: 2021-02-19 16:00:00<br />
+                    Prowadzą: Adam Smolarek, Andrzej Krzywda<br/>
+                    Wszystko czego nie wiesz a boisz się zapytać White board: https://chaindev.pl/wb
+                </description>
+                <pubDate>Fri, 19 Feb 2021 16:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/myGeL3ax</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/myGeL3ax</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Programisto, pokaż swój side-project!</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/M14ENX2v<br/>
+                    Kiedy: 2021-02-18 16:00:00<br />
+                    Prowadzą: Szymon Paluch, Andrzej Krzywda<br/>
+                    Wielu z programistów rozwija side-projekty. Niektórzy jako formę rozwoju, a inni wiążą z nimi możliwość zarobku. 
+
+Jeśli rozwijasz taki projekt dołącz do nas, pokaż go światu i zbierz cenny feedback!
+                </description>
+                <pubDate>Thu, 18 Feb 2021 16:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/M14ENX2v</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/M14ENX2v</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Jak pisać abstrakty na dev konferencje</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MR33pNW6<br/>
+                    Kiedy: 2021-02-17 20:00:00<br />
+                    Prowadzą: Michał Łusiak, Michał Śliwoń, Andrzej Krzywda<br/>
+                    Porozmawiamy o tym jak pisać abstrakty na konferencje programistyczne. Michał Ł z perspektywy prezentera, a Michał Ś z perspektywy organizatora.
+                </description>
+                <pubDate>Wed, 17 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MR33pNW6</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MR33pNW6</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL - czy Java umiera? Java a inne języki </title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/dxndgO3m<br/>
+                    Kiedy: 2021-02-17 14:00:00<br />
+                    Prowadzą: Dariusz Mydlarz<br/>
+                    Czy języki JVM - Kotlin, Scala, Groovy - wyprą Jave? Czy inne ekosystemy - Ruby, Python, PHP, .Net - przejmą Jave? Zapraszam do wspólnej dyskusji ;)
+                </description>
+                <pubDate>Wed, 17 Feb 2021 14:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/dxndgO3m</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/dxndgO3m</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Przyszłość frontendu-PWA</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MOBnD4Zy<br/>
+                    Kiedy: 2021-02-16 19:00:00<br />
+                    Prowadzą: Aleksander Patschek, Artur Chmaro<br/>
+                    Frontend zawitał na Dev Radio PL. Porozmawiamy sobie o przyszłości frontendu w kontekście PWA (progressive web apps)
+                </description>
+                <pubDate>Tue, 16 Feb 2021 19:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MOBnD4Zy</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MOBnD4Zy</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Techniczna część rozmów kwalifikacyjnych</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/mapl9QVM<br/>
+                    Kiedy: 2021-02-15 20:00:00<br />
+                    Prowadzą: Beata Lipska, Andrzej Krzywda, Patryk Kubiela, Aleksander Patschek<br/>
+                    Kontynuujemy temat sprzed tygodnia, ale teraz będzie część tylko technicznych zadań podczas rozmów kwalifikacyjnych, więc dużo 💻 i fajnych ludzi. Zapraszam serdecznie! 🤓 Słyszymy się 🎙
+                </description>
+                <pubDate>Mon, 15 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/mapl9QVM</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/mapl9QVM</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 Dev Radio PL: Wydajność aplikacji</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/Pv6nB9E7<br/>
+                    Kiedy: 2021-02-10 20:00:00<br />
+                    Prowadzą: Daniel Dec<br/>
+                    Będzie to wstęp do wydajności systemów. Dlaczego i kiedy jest ważna. Gdzie jest wydajność? Jak ją mierzyć? Przejdziemy przez warstwy, powiem o podejściu i narzędziach.
+                </description>
+                <pubDate>Wed, 10 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/Pv6nB9E7</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/Pv6nB9E7</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱 IT Tech Talk – Nudne (sprawdzone) technologie</title>
+                <description>
+                    Link: https://joinclubhouse.com/event/M6zw0EbE<br/>
+                    Kiedy: 2021-02-10 16:30:00<br />
+                    Prowadzą: Łukasz Kałużny, Tomek Onyszko, Oskar Dudycz, Wojtek Ptak<br/>
+                    Luźna rozmowa na temat wybierania nudnych, sprawdzonych technologii, a rozwoju, kreatywność czy cv driven development.
+
+PS. Chcesz zadać pytanie, skomentować? Podnieś po prostu rękę w trakcie rozmowy
+                </description>
+                <pubDate>Wed, 10 Feb 2021 16:30:00 +0100</pubDate>
+                <link>https://joinclubhouse.com/event/M6zw0EbE</link>
+                <guid isPermaLink="true">https://joinclubhouse.com/event/M6zw0EbE</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱Dev Radio PL - Rekrutacja w branży IT</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MwkDw8DB<br/>
+                    Kiedy: 2021-02-08 20:00:00<br />
+                    Prowadzą: Beata Lipska<br/>
+                    Będziemy tym razem rozmawiać o tych stresujących momentach szukania w pracy IT i może uda mi się wraz z Waszą pomocą rozwiać trochę mitów na temat rozmów kwalifikacyjnych do branży IT. Zapraszam 😏🤓💻
+                </description>
+                <pubDate>Mon, 08 Feb 2021 20:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MwkDw8DB</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MwkDw8DB</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱Dev Radio PL: moduły w projekcie == konteksty biznesowe </title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/xpeELErv<br/>
+                    Kiedy: 2021-02-08 16:00:00<br />
+                    Prowadzą: Andrzej Krzywda<br/>
+                    pogadamy sobie o tym jak biznes przekłada się na kodzik, konteksty z DDD, read modele oraz procesy. dla chętnych - szybka terapia Twojego projektu jakie moduły wprowadzić
+                </description>
+                <pubDate>Mon, 08 Feb 2021 16:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/xpeELErv</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/xpeELErv</guid>
+            </item>
+        
+            <item>
+                <title>🇵🇱Dev Radio PL - dzisiaj o testach</title>
+                <description>
+                    Link: https://www.joinclubhouse.com/event/MdAV8wJl<br/>
+                    Kiedy: 2021-02-05 16:00:00<br />
+                    Prowadzą: Andrzej Krzywda, Ola Kunysz, Daniel Dec<br/>
+                    O testach brzmi trochę za szeroko, może zawęzimy tylko do tematu coverage, zobaczymy 😎
+                </description>
+                <pubDate>Fri, 05 Feb 2021 16:00:00 +0100</pubDate>
+                <link>https://www.joinclubhouse.com/event/MdAV8wJl</link>
+                <guid isPermaLink="true">https://www.joinclubhouse.com/event/MdAV8wJl</guid>
+            </item>
+        
+    </channel>
+</rss>
